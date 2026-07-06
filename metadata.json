@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Premium Business Website",
+  "description": "A premium, modern, and responsive luxury business website for a digital agency, featuring fluid animations, light/dark mode, and interactive portfolios, services, blog, and pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
